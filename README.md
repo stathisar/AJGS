@@ -8,6 +8,4 @@ For any related clarifications, please contact the author directly:
 
 Stathis G. Arapostathis
 
-www.geografos.gr
-
 e.arapostathis@gmail.com 
