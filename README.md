@@ -7,5 +7,7 @@ All the steps of the methodology, as it is described in the related article, are
 For any related clarifications, please contact the author directly:
 
 Stathis G. Arapostathis
+
 www.geografos.gr
+
 e.arapostathis@gmail.com 
