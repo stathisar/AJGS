@@ -7,8 +7,6 @@ All the steps of the methodology, as it is described in the related article, are
 
 An update will be available soon and will have the code presented in compliance to the google's R style guide, structured in a better way while demo datasets will be available for running the script.
 
-For any related clarifications, please contact the author directly:
-
-Stathis G. Arapostathis
+For any related clarifications, please contact the author directly at:
 
 e.arapostathis@gmail.com 
