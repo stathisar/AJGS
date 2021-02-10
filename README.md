@@ -1,5 +1,6 @@
 # AJGS
-R scripts for data processing of twitter content for disaster management of fire events
+  #Revised during February 2021
+R script for data processing of twitter content for disaster management of fire events
 
 Those scripts are indicative examples of automation of geo-referencing methodology which aspires to utilize twitter content for disaster management purposes.
 
